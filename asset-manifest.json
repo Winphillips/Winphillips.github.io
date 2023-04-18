@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Winphillips.github.io/static/js/main.cb49b4c4.chunk.js",
+    "main.js.map": "/Winphillips.github.io/static/js/main.cb49b4c4.chunk.js.map",
+    "runtime-main.js": "/Winphillips.github.io/static/js/runtime-main.97b2dda9.js",
+    "runtime-main.js.map": "/Winphillips.github.io/static/js/runtime-main.97b2dda9.js.map",
+    "static/js/2.7910d12e.chunk.js": "/Winphillips.github.io/static/js/2.7910d12e.chunk.js",
+    "static/js/2.7910d12e.chunk.js.map": "/Winphillips.github.io/static/js/2.7910d12e.chunk.js.map",
+    "index.html": "/Winphillips.github.io/index.html",
+    "static/js/2.7910d12e.chunk.js.LICENSE.txt": "/Winphillips.github.io/static/js/2.7910d12e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97b2dda9.js",
+    "static/js/2.7910d12e.chunk.js",
+    "static/js/main.cb49b4c4.chunk.js"
+  ]
+}
