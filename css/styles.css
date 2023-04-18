@@ -20,8 +20,8 @@
 */
 .theme-light,
 .theme-dark {
-  --base-color: hsl(224, 65%, 58%);
-  --base-color-hover: hsl(217, 44%, 55%);
+  --base-color: hsl(204.1, 69.9%, 53.1%);
+  --base-color-hover: hsl(204.1, 69.9%, 43.1%);
   --base-color-rgb: 52, 152, 219;
   --base-color-hover-rgb: 33, 125, 187;
   --darken-base-color-15: hsl(204.1, 69.9%, 38.1%);
@@ -39,9 +39,9 @@
     Light Theme
 */
 .theme-light {
-  --white: #e9fffb;
+  --white: #fff;
   --background: var(--white);
-  --background-alt: hsl(173, 42%, 84%);
+  --background-alt: hsl(240, 13%, 95.5%);
   --background-alt-c1: 240, 13%;
   --background-alt-c2: 95.5%;
   --border: #dcd9d9;
@@ -56,9 +56,9 @@
     Dark Theme 
 */
 .theme-dark {
-  --white: #202224;
+  --white: #202020;
   --background: var(--white);
-  --background-alt: hsl(225, 7%, 11%);
+  --background-alt: hsl(0, 0%, 9.4%);
   --background-alt-c1: 0, 0%;
   --background-alt-c2: 9.4%;
   --border: #666666;
